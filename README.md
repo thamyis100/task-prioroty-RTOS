@@ -1,4 +1,4 @@
 ﻿# task-prioroty-RTOS
 ## Real-time Operating System
 
-(Real-time%20Operating%20System.mp4)](https://github.com/user-attachments/assets/8c79f630-e7df-4171-890f-095b78ff2116)
+https://github.com/user-attachments/assets/d96d6b5a-370d-4a5d-b23d-c358e443b95e

@@ -1,2 +1,2 @@
 ﻿# task-prioroty-RTOS
-[Video Real-time Operating System](relative/path/to/video.mp4)
+[Video Real-time Operating System](Video Real-time Operating System.mp4)
